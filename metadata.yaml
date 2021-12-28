@@ -1,11 +1,16 @@
 _repo: An-elegy-written-among-the-ruins-of-an-abbey_66964
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66964-h/images/cover.jpg
 creator:
   author:
     agent_name: Jerningham, Edward
     gutenberg_agent_id: '54054'
     url: http://www.gutenberg.org/2009/agents/54054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66964#An-elegy-written-among-the-ruins-of-an-abbey
 gutenberg_issued: '2021-12-18'
 identifiers:
   gutenberg: '66964'
